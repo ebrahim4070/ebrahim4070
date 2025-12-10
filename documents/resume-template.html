@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', 'Helvetica', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 8.5in;
+            margin: 0 auto;
+            padding: 0.5in;
+            background: white;
+        }
+        
+        @media print {
+            body {
+                padding: 0.5in;
+            }
+        }
+        
+        header {
+            text-align: center;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+        
+        .contact-info {
+            font-size: 11px;
+            color: #555;
+        }
+        
+        .contact-info a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        
+        h2 {
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 1px solid #333;
+            margin-top: 15px;
+            margin-bottom: 8px;
+            padding-bottom: 2px;
+        }
+        
+        .section {
+            margin-bottom: 15px;
+        }
+        
+        .entry {
+            margin-bottom: 10px;
+        }
+        
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        
+        .entry-subheader {
+            font-style: italic;
+            font-size: 11px;
+            color: #555;
+            margin-bottom: 3px;
+        }
+        
+        ul {
+            margin-left: 20px;
+            font-size: 11px;
+        }
+        
+        li {
+            margin-bottom: 2px;
+        }
+        
+        .skills-list {
+            font-size: 11px;
+            line-height: 1.8;
+        }
+        
+        strong {
+            font-weight: bold;
+        }
+        
+        .instructions {
+            background: #fffacd;
+            border: 2px dashed #ff6b6b;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 12px;
+        }
+        
+        @media print {
+            .instructions {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="instructions">
+        <strong>📝 INSTRUCTIONS:</strong><br>
+        1. Replace ALL placeholder text (in [brackets]) with your actual information<br>
+        2. Delete or modify sections as needed<br>
+        3. Once complete, use Ctrl+P (Cmd+P on Mac) to print<br>
+        4. Select "Save as PDF" as your printer<br>
+        5. Save the file as "resume.pdf" in this documents folder<br>
+        6. This yellow box will NOT appear in the PDF!
+    </div>
+
+    <header>
+        <h1>[YOUR FULL NAME]</h1>
+        <div class="contact-info">
+            <a href="mailto:your.email@cpp.edu">your.email@cpp.edu</a> | 
+            (123) 456-7890 | 
+            <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 
+            <a href="https://github.com/yourusername">GitHub</a> | 
+            Pomona, CA
+        </div>
+    </header>
+
+    <div class="section">
+        <h2>Education</h2>
+        <div class="entry">
+            <div class="entry-header">
+                <span>California State Polytechnic University, Pomona</span>
+                <span>Expected: [Month Year]</span>
+            </div>
+            <div class="entry-subheader">Bachelor of Science in [Your Major] | GPA: X.XX/4.00</div>
+            <div style="font-size: 11px; margin-top: 3px;">
+                <strong>Relevant Coursework:</strong> [Course 1], [Course 2], [Course 3], [Course 4]
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <div class="skills-list">
+            <strong>Programming Languages:</strong> [e.g., Python, Java, JavaScript, C++, SQL]<br>
+            <strong>Web Technologies:</strong> [e.g., HTML, CSS, React, Node.js, Express]<br>
+            <strong>Tools & Software:</strong> [e.g., Git, VS Code, Linux, Docker, Jira]<br>
+            <strong>Other Skills:</strong> [e.g., UI/UX Design, Agile, REST APIs, Database Management]
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <div class="entry">
+            <div class="entry-header">
+                <span><strong>[Job Title or Position]</strong></span>
+                <span>[Month Year] - Present</span>
+            </div>
+            <div class="entry-subheader">[Company/Organization Name] - [Location]</div>
+            <ul>
+                <li>[Accomplishment or responsibility - start with action verb like "Developed," "Designed," "Implemented"]</li>
+                <li>[Accomplishment or responsibility - be specific with results and impact]</li>
+                <li>[Accomplishment or responsibility - quantify achievements when possible]</li>
+            </ul>
+        </div>
+        
+        <div class="entry">
+            <div class="entry-header">
+                <span><strong>[Job Title or Position]</strong></span>
+                <span>[Month Year] - [Month Year]</span>
+            </div>
+            <div class="entry-subheader">[Company/Organization Name] - [Location]</div>
+            <ul>
+                <li>[Accomplishment or responsibility]</li>
+                <li>[Accomplishment or responsibility]</li>
+                <li>[Accomplishment or responsibility]</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Projects</h2>
+        <div class="entry">
+            <div class="entry-header">
+                <span><strong>[Project Name]</strong></span>
+                <span>[Month Year]</span>
+            </div>
+            <ul>
+                <li>[Brief description of the project and your specific role]</li>
+                <li>[Technologies used: e.g., "Built with React, Node.js, and MongoDB"]</li>
+                <li>[Key features implemented or impact achieved]</li>
+            </ul>
+        </div>
+        
+        <div class="entry">
+            <div class="entry-header">
+                <span><strong>[Project Name]</strong></span>
+                <span>[Month Year]</span>
+            </div>
+            <ul>
+                <li>[Brief description of the project and your role]</li>
+                <li>[Technologies used and key features]</li>
+                <li>[Results or learning outcomes]</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Activities & Leadership</h2>
+        <div class="entry">
+            <div class="entry-header">
+                <span><strong>[Organization/Club Name]</strong> - [Your Role/Position]</span>
+                <span>[Month Year] - Present</span>
+            </div>
+            <ul>
+                <li>[Responsibility or achievement]</li>
+                <li>[Responsibility or achievement]</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Optional: Remove this section if you don't have awards/certifications -->
+    <div class="section">
+        <h2>Awards & Certifications</h2>
+        <div style="font-size: 11px;">
+            <ul>
+                <li><strong>[Award Name]</strong> - [Issuing Organization], [Year]</li>
+                <li><strong>[Certification Name]</strong> - [Issuing Organization], [Year]</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>

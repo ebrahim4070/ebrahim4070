@@ -1,0 +1,83 @@
+================================================================================
+                            YOUR FULL NAME
+================================================================================
+
+Email: your.email@cpp.edu
+Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourusername (if applicable)
+Location: Pomona, CA
+
+================================================================================
+EDUCATION
+================================================================================
+
+California State Polytechnic University, Pomona                    Expected: Month Year
+Bachelor of Science in [Your Major]
+GPA: X.XX/4.00
+Relevant Coursework: [Course 1], [Course 2], [Course 3], [Course 4]
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Programming Languages: [e.g., Python, Java, JavaScript, C++]
+Web Technologies: [e.g., HTML, CSS, React, Node.js]
+Tools & Software: [e.g., Git, VS Code, Linux, Docker]
+Other Skills: [e.g., UI/UX Design, Database Management, Agile]
+
+================================================================================
+EXPERIENCE
+================================================================================
+
+[Job Title or Position]                                            Month Year - Present
+[Company/Organization Name] - [Location]
+• [Accomplishment or responsibility - start with action verb]
+• [Accomplishment or responsibility - be specific with results]
+• [Accomplishment or responsibility - quantify when possible]
+
+[Job Title or Position]                                            Month Year - Month Year
+[Company/Organization Name] - [Location]
+• [Accomplishment or responsibility]
+• [Accomplishment or responsibility]
+• [Accomplishment or responsibility]
+
+================================================================================
+PROJECTS
+================================================================================
+
+[Project Name]                                                     Month Year
+• [Brief description of the project and your role]
+• [Technologies used and key features implemented]
+• [Impact or results achieved]
+
+[Project Name]                                                     Month Year
+• [Brief description of the project and your role]
+• [Technologies used and key features implemented]
+• [Impact or results achieved]
+
+================================================================================
+ACTIVITIES & LEADERSHIP
+================================================================================
+
+[Organization/Club Name]                                           Month Year - Present
+[Your Role/Position]
+• [Responsibility or achievement]
+• [Responsibility or achievement]
+
+================================================================================
+AWARDS & CERTIFICATIONS (Optional)
+================================================================================
+
+• [Award Name] - [Issuing Organization], Year
+• [Certification Name] - [Issuing Organization], Year
+
+================================================================================
+
+INSTRUCTIONS FOR CONVERTING TO PDF:
+1. Copy this template into Microsoft Word or Google Docs
+2. Format it nicely (adjust fonts, spacing, bold headings)
+3. Replace all placeholder text with your actual information
+4. Go to File > Save As (Word) or File > Download > PDF (Google Docs)
+5. Save as "resume.pdf"
+6. Move the PDF to this documents folder

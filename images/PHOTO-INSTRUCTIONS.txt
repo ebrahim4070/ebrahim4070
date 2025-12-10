@@ -1,0 +1,28 @@
+PROFILE PHOTO INSTRUCTIONS
+==========================
+
+You need to add your profile photo to display on your personal webpage.
+
+REQUIREMENTS:
+-------------
+1. Choose a professional-looking photo of yourself
+2. The photo should be clear and well-lit
+3. A headshot or upper body photo works best
+4. File should be in JPG or PNG format
+5. Recommended size: at least 400x400 pixels (it will be displayed at 200x200)
+
+HOW TO ADD YOUR PHOTO:
+----------------------
+1. Select your photo file
+2. Rename it to: profile-photo.jpg  (or profile-photo.png)
+3. Copy/move the file to this images folder
+4. Replace the existing file if there is one
+
+The webpage is configured to look for:
+- images/profile-photo.jpg
+
+Once you add your photo with the correct name, it will appear on your webpage!
+
+If you don't have a photo yet, you can use a placeholder from a site like:
+- https://placeholder.com/
+- Or create a simple colored square with your initials
